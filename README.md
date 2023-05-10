@@ -18,7 +18,9 @@ Given an image of meters, image-based meter recognition & reading aims to output
 
 |Year|Venue|Title|Repo|Task|
 |----|----|-----|----|----|
+|2017|ICIMCS|[Automatic Watermeter Digit Recognition on Mobile Devices](https://link.springer.com/chapter/10.1007/978-981-10-8530-7_9)||Digital Det. & Recog.|
 |2019|Access|[Fully Convolutional Sequence Recognition Network for Water Meter Number Reading](https://ieeexplore.ieee.org/abstract/document/8606091)||Digital Recog.|
+|2019|PRCV|[Reading Digital Numbers of Water Meter with Deep Learning Based Object Detector](https://link.springer.com/chapter/10.1007/978-3-030-31654-9_4)|[code](https://github.com/sloan96/water-meter-recognition)|Digital Det. & Recog.|
 |2020|Measurement|[A pointer meter recognition method based on virtual sample generation technology](https://www.sciencedirect.com/science/article/pii/S0263224120305005)||Analog Recog.|
 |2020|ISSPM|[Automatic reading algorithm of pointer water meter based on deep learning and double centroid method](https://link.springer.com/chapter/10.1007/978-981-33-4575-1_46)||Analog Det. & Recog.|
 |2021|INTETAIN|[A Fast Region Segmentation Algorithm for Water Meter Image Based on Adaptive Seed Point Selection](https://link.springer.com/chapter/10.1007/978-3-030-99188-3_3)||Digital Recog.|
@@ -32,6 +34,7 @@ Given an image of meters, image-based meter recognition & reading aims to output
 |2022|TIM|[Real Time Power Equipment Meter Recognition Based on Deep Learning](https://ieeexplore.ieee.org/abstract/document/9839682)||Analog Det. & Recog.|
 |2022|CVPR|[It's About Time: Analog Clock Reading in the Wild](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Its_About_Time_Analog_Clock_Reading_in_the_Wild_CVPR_2022_paper.pdf)|[Code](https://github.com/charigyang/itsabouttime)|Analog Det. & Recog.|
 |2022|IoTJ|[HRC-mCNNs: A Hybrid Regression and Classification Multi-branch CNNs for Automatic Meter Reading with Smart Shell](https://ieeexplore.ieee.org/abstract/document/9854084/)||Digital Det. & Recog.|
+|2022|Scentific Reports|[Research on water meter reading recognition based on deep learning](https://www.nature.com/articles/s41598-022-17255-3)||Digital Det. & Recog.|
 
 
 # Public available datasets
