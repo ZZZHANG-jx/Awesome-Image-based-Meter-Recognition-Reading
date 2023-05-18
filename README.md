@@ -29,6 +29,7 @@ Given an image of meters, image-based meter recognition & reading aims to output
 |2021|CVPRW|[Real-time analogue gauge transcription on mobile phone](https://openaccess.thecvf.com/content/CVPR2021W/MAI/html/Howells_Real-ime_Analogue_Gauge_Transcription_on_Mobile_Phone_CVPRW_2021_paper.html)||Analog Det. & Recog.|
 |2021|TAI|[Vector Detection Network: An Application Study on Robots Reading Analog Meters in the Wild](https://ieeexplore.ieee.org/abstract/document/9526566)|[Code](https://github.com/DrawZeroPoint/VectorDetectionNetwork)|Analog Det. & Recog.|
 |2021|Sensor|[Image-Based Automatic Watermeter Reading under Challenging Environments](https://www.mdpi.com/1424-8220/21/2/434)||Digital & Analog Det. & Recog.|
+|2022|Access|[Generative Data Augmentation for Automatic Meter Reading Using CNNs](https://ieeexplore.ieee.org/abstract/document/9729827)||Digital Recog.|
 |2022|ICDSCA|[Research and Application of Pointer Meter Reading Algorithm Based on Attention U2-Net](https://ieeexplore.ieee.org/abstract/document/9987814)||Analog Recog.|
 |2022|MST|[Correction and pointer reading recognition of circular pointer meter](https://iopscience.iop.org/article/10.1088/1361-6501/ac9ad4/meta)||Analog Recog.|
 |2022|TIM|[Real Time Power Equipment Meter Recognition Based on Deep Learning](https://ieeexplore.ieee.org/abstract/document/9839682)||Analog Det. & Recog.|
