@@ -25,7 +25,7 @@ Given an image of meters, image-based meter recognition & reading aims to output
 |2020|ISSPM|[Automatic reading algorithm of pointer water meter based on deep learning and double centroid method](https://link.springer.com/chapter/10.1007/978-981-33-4575-1_46)||Analog Det. & Recog.|
 |2021|INTETAIN|[A Fast Region Segmentation Algorithm for Water Meter Image Based on Adaptive Seed Point Selection](https://link.springer.com/chapter/10.1007/978-3-030-99188-3_3)||Digital Recog.|
 |2021|IAEAC|[Research on the Visual Recognition Method of Pointer Water Meter Reading](https://ieeexplore.ieee.org/abstract/document/9390735)||Analog Det. & Recog.|
-|2021|FMI|[Water meter pointer reading recognition method based on target-key point detection](https://www.sciencedirect.com/science/article/pii/S0263224120305005)||Analog Det. & Recog.|
+|2021|FMI|[Water meter pointer reading recognition method based on target-key point detection](https://www.sciencedirect.com/science/article/pii/S0955598621001199)||Analog Det. & Recog.|
 |2021|CVPRW|[Real-time analogue gauge transcription on mobile phone](https://openaccess.thecvf.com/content/CVPR2021W/MAI/html/Howells_Real-ime_Analogue_Gauge_Transcription_on_Mobile_Phone_CVPRW_2021_paper.html)||Analog Det. & Recog.|
 |2021|TAI|[Vector Detection Network: An Application Study on Robots Reading Analog Meters in the Wild](https://ieeexplore.ieee.org/abstract/document/9526566)|[Code](https://github.com/DrawZeroPoint/VectorDetectionNetwork)|Analog Det. & Recog.|
 |2021|Sensor|[Image-Based Automatic Watermeter Reading under Challenging Environments](https://www.mdpi.com/1424-8220/21/2/434)||Digital & Analog Det. & Recog.|
