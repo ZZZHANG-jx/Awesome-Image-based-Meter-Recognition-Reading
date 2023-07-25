@@ -36,6 +36,7 @@ Given an image of meters, image-based meter recognition & reading aims to output
 |2022|CVPR|[It's About Time: Analog Clock Reading in the Wild](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Its_About_Time_Analog_Clock_Reading_in_the_Wild_CVPR_2022_paper.pdf)|[Code](https://github.com/charigyang/itsabouttime)|Analog Det. & Recog.|
 |2022|IoTJ|[HRC-mCNNs: A Hybrid Regression and Classification Multi-branch CNNs for Automatic Meter Reading with Smart Shell](https://ieeexplore.ieee.org/abstract/document/9854084/)||Digital Det. & Recog.|
 |2022|Scentific Reports|[Research on water meter reading recognition based on deep learning](https://www.nature.com/articles/s41598-022-17255-3)||Digital Det. & Recog.|
+|2023|Sensors|[Water Meter Reading for Smart Grid Monitoring](https://www.mdpi.com/1424-8220/23/1/75)||Digital Det. & Recog.|
 
 
 # Public available datasets
@@ -44,6 +45,7 @@ Given an image of meters, image-based meter recognition & reading aims to output
 |2019|-|[WaterMeters](https://ieee-dataport.org/open-access/water-meter-dataset)|1.2K|[Water Meter Dataset](https://ieee-dataport.org/open-access/water-meter-dataset)|Digital Det. & Recog.|
 |2019|Access|[SCUT-WMN](https://github.com/HCIILAB/Water-Meter-Number-DataSet)|5k|[Fully Convolutional Sequence Recognition Network for Water Meter Number Reading](https://ieeexplore.ieee.org/abstract/document/8606091)|Digital Recog.|
 |2020|CCF BDCI|[BDCI2020](https://www.datafountain.cn/competitions/480/datasets)|1.5K|[真实场景下的水表读数自动识别](https://www.datafountain.cn/competitions/480)|Digital Det. & Recog.|
+|2020|-|[SUEZ MeterReading](https://challengedata.ens.fr/participants/challenges/30/)|1K|[AI for Meter Reading by Suez](https://challengedata.ens.fr/participants/challenges/30/)|Digital Recog.|
 |2020|IJCNN|[UFPR-ADMR-v1](https://github.com/raysonlaroca/ufpr-admr-v1-dataset)|2k|[Deep Learning for Image-based Automatic Dial Meter Reading: Dataset and Baselines](https://ieeexplore.ieee.org/abstract/document/9207318)|Analog Det. & Recog.|
 |2021|CVPRW|[SyntheticGauges+RealGauges](http://jjcvision.com/projects/gauge_reading.html)|11K|[Real-time analogue gauge transcription on mobile phone](https://openaccess.thecvf.com/content/CVPR2021W/MAI/html/Howells_Real-ime_Analogue_Gauge_Transcription_on_Mobile_Phone_CVPRW_2021_paper.html)|Analog Det. & Recog.|
 |2021|TAI|[Pointer-10K](https://github.com/DrawZeroPoint/VectorDetectionNetwork)|10k|[Vector Detection Network: An Application Study on Robots Reading Analog Meters in the Wild](https://ieeexplore.ieee.org/abstract/document/9526566)|Analog Det. & Recog.|
