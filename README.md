@@ -37,6 +37,7 @@ Given an image of meters, image-based meter recognition & reading aims to output
 |2022|IoTJ|[HRC-mCNNs: A Hybrid Regression and Classification Multi-branch CNNs for Automatic Meter Reading with Smart Shell](https://ieeexplore.ieee.org/abstract/document/9854084/)||Digital Det. & Recog.|
 |2022|Scentific Reports|[Research on water meter reading recognition based on deep learning](https://www.nature.com/articles/s41598-022-17255-3)||Digital Det. & Recog.|
 |2023|Sensors|[Water Meter Reading for Smart Grid Monitoring](https://www.mdpi.com/1424-8220/23/1/75)||Digital Det. & Recog.|
+|2024|TIM|Towards Accurate Readings of Water Meters by Eliminating Transition Error: New Dataset and Effective Solution|[Code](https://github.com/ZZZHANG-jx/WMeter-Reader)|Analog Recog.|
 
 
 # Public available datasets
@@ -53,4 +54,5 @@ Given an image of meters, image-based meter recognition & reading aims to output
 |2022|Arxiv|[UFPR-ADMR-v2](https://github.com/guesalomon/ufpr-admr-v2-dataset)|5k|[Image-based Automatic Dial Meter Reading in Unconstrained Scenarios](https://arxiv.org/pdf/2201.02850.pdf)|Analog Det. & Recog.|
 |2022|TIM|[PMIs](https://github.com/zzfan3/electric_meter_detect_recognize)|1.8k|[Real Time Power Equipment Meter Recognition Based on Deep Learning](https://ieeexplore.ieee.org/abstract/document/9839682)|Analog Det. & Recog.|
 |2022|CVPR|[COCO+OpenImage](https://github.com/charigyang/itsabouttime)|1.9k+1.3k|[It's About Time: Analog Clock Reading in the Wild](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Its_About_Time_Analog_Clock_Reading_in_the_Wild_CVPR_2022_paper.pdf)|Analog Det. & Recog.|
+|2024|TIM|[WMeter5K](https://github.com/ZZZHANG-jx/WMeter-Reader)|5K|Towards Accurate Readings of Water Meters by Eliminating Transition Error: New Dataset and Effective Solution|Digital Det. & Recog., Analog Det. & Recog., Whole Reading Recog.|
 
